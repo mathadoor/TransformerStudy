@@ -6,7 +6,7 @@ and convolutional neural networks. The end goal is still in its infancy and this
 a sandbox environment to develop that goal. 
 
 ## Plan
-I will be performing the following tasks as a means to analyze the representations.
+I will be performing the following tasks as a means to analyze the representations.  
 0. Implement various similarity measures on various toy datasets as suggested by [Kornblith et. al](http://proceedings.mlr.press/v97/kornblith19a/kornblith19a.pdf).
 The idea is to reproduce the results by the authors.
 1. Then I will use the concepts learned from the above to recreate some results from the seminal paper 
